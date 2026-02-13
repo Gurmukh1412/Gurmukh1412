@@ -1,21 +1,16 @@
-👋 Hi, I'm Gurmukh Singh
+#👋 Hi, I'm Gurmukh Singh
 
 🚀 AI Systems Builder | 🧠 Machine Learning Enthusiast | ⚙️ Materials Engineering @ IIT Mandi
 
 I build practical AI systems — not just models, but end-to-end solutions.
-
 From designing Retrieval-Augmented Generation (RAG) pipelines and document QA systems to building CNN-based image classifiers and deploying AI apps with Docker, I focus on solving real-world problems with scalable architectures.
 
 🔥 What I’m Currently Focused On
 
 Building task-specific AI systems (RAG, SLM ideas, AI assistants)
-
 Machine Learning model development & optimization
-
 System design for deployable AI applications
-
 Materials + Machine Learning interdisciplinary projects
-
 Intelligent systems (traffic optimization, robotics, vibration control)
 
 
