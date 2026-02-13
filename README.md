@@ -1,4 +1,4 @@
-#👋 Hi, I'm Gurmukh Singh
+👋 Hi, I'm Gurmukh Singh
 
 🚀 AI Systems Builder | 🧠 Machine Learning Enthusiast | ⚙️ Materials Engineering @ IIT Mandi
 
