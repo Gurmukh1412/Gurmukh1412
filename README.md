@@ -1,5 +1,22 @@
-# 💫 About Me:
-Python (advanced usage in ML + backend systems)<br><br>C++ (heap operations, sorting algorithms)<br><br>Debugging (ImportError, NameError, FileNotFoundError)<br><br>Virtual environments management<br><br>Code modularization & project structuring<br><br>Git & GitHub (clone, push, repo management)<br><br>Docker & Docker Compose<br><br>Streamlit app development<br><br>API integration<br><br>Environment configuration (.env, TOML configs)<br><br><br>Supervised Learning fundamentals<br><br>CNN & FCNN (CIFAR classification)<br><br>Model training & validation<br><br>Performance evaluation metrics<br><br>Principal Component Analysis (PCA)<br><br>Dataset preprocessing (mean imputation)<br><br>Feature correlation analysis (Pearson correlation)<br><br>Feature selection & redundancy removal<br><br>Model deployment concepts<br><br>Prompt engineering<br><br>Small Language Model (SLM) idea design<br><br>RAG (Retrieval-Augmented Generation) system design<br><br>Chunking strategies for LLM pipelines<br><br>Embedding-based retrieval systems<br><br>RAG architecture design<br><br>LLM error handling<br><br>API-based LLM systems<br><br>Authentication error debugging (Clerk issue)<br><br>SaaS backend structure<br><br>Deployment troubleshooting<br><br>Building document QA systems<br><br>System modular pipeline design
+👋 Hi, I'm Gurmukh Singh
+
+🚀 AI Systems Builder | 🧠 Machine Learning Enthusiast | ⚙️ Materials Engineering @ IIT Mandi
+
+I build practical AI systems — not just models, but end-to-end solutions.
+
+From designing Retrieval-Augmented Generation (RAG) pipelines and document QA systems to building CNN-based image classifiers and deploying AI apps with Docker, I focus on solving real-world problems with scalable architectures.
+
+🔥 What I’m Currently Focused On
+
+Building task-specific AI systems (RAG, SLM ideas, AI assistants)
+
+Machine Learning model development & optimization
+
+System design for deployable AI applications
+
+Materials + Machine Learning interdisciplinary projects
+
+Intelligent systems (traffic optimization, robotics, vibration control)
 
 
 # 💻 Tech Stack:
